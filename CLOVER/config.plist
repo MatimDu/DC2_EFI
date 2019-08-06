@@ -605,7 +605,7 @@
 	<key>BootGraphics</key>
 	<dict>
 		<key>EFILoginHiDPI</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>UIScale</key>
 		<integer>1</integer>
 	</dict>
@@ -619,7 +619,7 @@
 		<key>FakeID</key>
 		<dict>
 			<key>IntelGFX</key>
-			<string>0x59168086</string>
+			<string>0x59160000</string>
 		</dict>
 		<key>Properties</key>
 		<dict>
@@ -826,21 +826,25 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
+		<key>ROM</key>
+		<data>
+		ID6XTYiQ
+		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/28/2018</string>
+		<string>06/26/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP151.88Z.F000.B00.1809280842</string>
+		<string>MBP141.88Z.0178.B00.1806260902</string>
 		<key>Board-ID</key>
-		<string>Mac-937A206F2EE63C01</string>
+		<string>Mac-B4831CEBD52A0C4C</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02809700GUJP4F1H</string>
+		<string>C02731100OPF2FR8C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -854,7 +858,7 @@
 		<key>EfiVersion</key>
 		<string>220.250.320.0.0</string>
 		<key>Family</key>
-		<string>MacBook Pro</string>
+		<string>MacBook Pro15,2018</string>
 		<key>FirmwareFeatures</key>
 		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
@@ -868,16 +872,18 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,1</string>
+		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02XDZYEKGYG</string>
+		<string>C02V52ENHV29</string>
 		<key>SmUUID</key>
-		<string>AF74BA9B-251C-410B-BC6D-404F65263E35</string>
+		<string>2438D4FB-6DA9-5F6F-9CAD-63049B4D8890</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
+		<key>CustomUUID</key>
+		<string>2438D4FB-6DA9-5F6F-9CAD-63049B4D8890</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 	</dict>
