@@ -592,7 +592,7 @@
 		<key>Arguments</key>
 		<string>nv_disable=1 dart=0 keepsyms=1 -disablegfxfirmware abm_firstpolldelay=16000</string>
 		<key>DefaultVolume</key>
-		<string>MAC OS</string>
+		<string>Mac OS</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>NoEarlyProgress</key>
@@ -600,14 +600,14 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>0</integer>
 	</dict>
 	<key>BootGraphics</key>
 	<dict>
 		<key>EFILoginHiDPI</key>
-		<integer>1</integer>
+		<integer>2</integer>
 		<key>UIScale</key>
-		<integer>1</integer>
+		<integer>2</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
